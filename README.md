@@ -13,7 +13,16 @@ BookLoginApp es una aplicación de biblioteca personal que permite a los usuario
 
 ## Capturas de pantalla 📸
 
-> Agrega aquí imágenes de tu aplicación para mostrar la interfaz de usuario.
+![image](https://github.com/user-attachments/assets/3246e320-a588-4022-afaa-4b2d28407b54)
+
+![image](https://github.com/user-attachments/assets/95c806cb-4d22-4da8-a890-bdee15ca28a2)
+
+![image](https://github.com/user-attachments/assets/e06406bd-85f5-4fb0-a138-365716de5d58)
+
+![image](https://github.com/user-attachments/assets/086eabde-8da2-4782-af5e-d8cebfca97ff)
+
+
+
 
 ## Tecnologías utilizadas 🛠️
 
