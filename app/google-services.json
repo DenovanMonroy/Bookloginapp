@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "528967590164",
+    "project_id": "libreriaapp-9a5b2",
+    "storage_bucket": "libreriaapp-9a5b2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528967590164:android:d94b07584b599a99232201",
+        "android_client_info": {
+          "package_name": "com.example.bookloginapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDa75uD_36Xk9P2X0Ozpv0w1qV51Q3gga0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
